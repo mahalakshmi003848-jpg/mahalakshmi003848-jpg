@@ -3,25 +3,25 @@
      MAHALAKSHMI GOPINATH | GITHUB PROFILE
      BUTTER YELLOW × POWDER BLUE
      LIGHT MODE | ANIMATED DEVELOPER PORTFOLIO
-════════════════════════════════════════════════ -->
+═══════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F8DDE9,50:FFFFFF,100:D9EDFA&height=180&section=header&text=Mahalakshmi%20Gopinath&fontSize=42&fontColor=27364A&fontAlignY=45&desc=DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST%20%7C%20CREATOR&descSize=12&descAlignY=67&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7E9A9,50:FFFDF5,100:C8E3F3&height=200&section=header&text=Mahalakshmi%20Gopinath&fontSize=42&fontColor=25354A&fontAlignY=43&desc=DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST%20%7C%20CREATOR&descSize=12&descAlignY=64&animation=fadeIn"/>
 
 <br/>
 
 <a href="https://github.com/mahalakshmi003848-jpg">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-26364A?style=for-the-badge&logo=github&logoColor=F8DDE9"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-25354A?style=for-the-badge&logo=github&logoColor=F7E9A9"/>
 </a>
 
 <a href="mailto:mahalakshmi003848@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-D9EDFA?style=for-the-badge&logo=gmail&logoColor=26364A"/>
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-C8E3F3?style=for-the-badge&logo=gmail&logoColor=25354A"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=668BAA&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+products.;Exploring+the+world+of+AI+%26+technology.;Designing.+Developing.+Experimenting.;Curiosity+drives+everything+I+build." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=729AB8&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+products.;Exploring+the+world+of+AI+%26+technology.;Designing.+Developing.+Experimenting.;Curiosity+drives+everything+I+build." alt="Typing SVG"/>
 
 <br/>
 
@@ -63,13 +63,13 @@ I enjoy the entire process: understanding a problem, exploring possibilities, de
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-F8DDE9?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-25354A?style=flat-square&labelColor=F7E9A9"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/INTEREST-FULL%20STACK-D9EDFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/INTEREST-FULL%20STACK-25354A?style=flat-square&labelColor=C8E3F3"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/EXPLORING-IOT-F8DDE9?style=flat-square"/>
+<img src="https://img.shields.io/badge/EXPLORING-IOT-25354A?style=flat-square&labelColor=F7E9A9"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-D9EDFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-25354A?style=flat-square&labelColor=C8E3F3"/>
 
 </div>
 </td>
@@ -84,19 +84,19 @@ I enjoy the entire process: understanding a problem, exploring possibilities, de
 
 ### PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=python,c,js&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,c,js&theme=light"/>
 
 ### FRONTEND DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=light"/>
 
 ### BACKEND & DATABASE
 
-<img src="https://skillicons.dev/icons?i=supabase&theme=light" />
+<img src="https://skillicons.dev/icons?i=supabase&theme=light"/>
 
 ### TOOLS & WORKFLOW
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light"/>
 
 </div>
 
@@ -110,7 +110,9 @@ I enjoy the entire process: understanding a problem, exploring possibilities, de
 <tr>
 <td width="50%" valign="top">
 
-### 01. WATCHIN
+<img src="https://img.shields.io/badge/PROJECT%2001-INTELLIGENT%20PRODUCT-25354A?style=flat-square&labelColor=F7E9A9"/>
+
+### WATCHIN
 
 **ENTERTAINMENT INTELLIGENCE**
 
@@ -121,7 +123,9 @@ An entertainment decision engine that helps users find what to watch based on mo
 </td>
 <td width="50%" valign="top">
 
-### 02. CAMPUS CONNECT
+<img src="https://img.shields.io/badge/PROJECT%2002-FULL%20STACK-25354A?style=flat-square&labelColor=C8E3F3"/>
+
+### CAMPUS CONNECT
 
 **THE CONNECTED CAMPUS**
 
@@ -134,7 +138,9 @@ A student-focused platform bringing campus events, clubs and opportunities into 
 <tr>
 <td colspan="2" valign="top">
 
-### 03. TRASH2TREASURE
+<img src="https://img.shields.io/badge/PROJECT%2003-IOT%20%26%20SUSTAINABILITY-25354A?style=flat-square&labelColor=F7E9A9"/>
+
+### TRASH2TREASURE
 
 **SMART SUSTAINABILITY**
 
@@ -152,11 +158,11 @@ An IoT-based smart waste management concept designed around connected smart bins
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahalakshmi003848-jpg&show_icons=true&hide_border=true&bg_color=FFF9FC&title_color=BA83A1&icon_color=83B9D9&text_color=44546A&rank_icon=github"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmi003848-jpg&layout=compact&hide_border=true&bg_color=F3FAFF&title_color=6C9BB8&text_color=44546A"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahalakshmi003848-jpg&show_icons=true&hide_border=true&bg_color=FFFDF5&title_color=729AB8&icon_color=D6AF4C&text_color=44546A&rank_icon=github"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmi003848-jpg&layout=compact&hide_border=true&bg_color=F0F8FC&title_color=729AB8&text_color=44546A"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=mahalakshmi003848-jpg&hide_border=true&background=FFF9FC&ring=83B9D9&fire=BA83A1&currStreakLabel=BA83A1&sideLabels=6C9BB8&currStreakNum=44546A&sideNums=44546A&dates=8294A8"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=mahalakshmi003848-jpg&hide_border=true&background=FFFDF5&ring=729AB8&fire=D6AF4C&currStreakLabel=729AB8&sideLabels=44546A&currStreakNum=25354A&sideNums=25354A&dates=8292A6"/>
 
 </div>
 
@@ -166,7 +172,7 @@ An IoT-based smart waste management concept designed around connected smart bins
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahalakshmi003848-jpg&bg_color=FFFFFF&color=6C9BB8&line=D99DBB&point=83B9D9&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahalakshmi003848-jpg&bg_color=FFFDF5&color=46566A&line=729AB8&point=D6AF4C&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
 
 </div>
 
@@ -176,9 +182,9 @@ An IoT-based smart waste management concept designed around connected smart bins
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%" valign="top">
 
 ### ♫
 
@@ -187,15 +193,16 @@ An IoT-based smart waste management concept designed around connected smart bins
 Creative expression and musical exploration.
 
 </td>
-<td align="center" width="33%">
-### ♫
+<td align="center" width="25%" valign="top">
+
+### ✧
 
 **MOVIES**
 
-Film enthusiast.
+Film enthusiast who enjoys exploring different stories, genres and cinematic experiences.
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%" valign="top">
 
 ### ✦
 
@@ -204,7 +211,7 @@ Film enthusiast.
 Ideas, design and experimentation.
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%" valign="top">
 
 ### ◈
 
@@ -229,11 +236,11 @@ I'm always interested in discovering new ideas, collaborating on exciting projec
 <br/>
 
 <a href="https://github.com/mahalakshmi003848-jpg">
-<img src="https://img.shields.io/badge/GITHUB-26364A?style=for-the-badge&logo=github&logoColor=F8DDE9"/>
+<img src="https://img.shields.io/badge/GITHUB-25354A?style=for-the-badge&logo=github&logoColor=F7E9A9"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-D9EDFA?style=for-the-badge&logo=gmail&logoColor=26364A"/>
+<a href="mailto:mahalakshmi003848@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-C8E3F3?style=for-the-badge&logo=gmail&logoColor=25354A"/>
 </a>
 
 <br/><br/>
@@ -242,6 +249,8 @@ I'm always interested in discovering new ideas, collaborating on exciting projec
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D9EDFA,100:F8DDE9&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C8E3F3,50:FFFDF5,100:F7E9A9&height=120&section=footer"/>
 
 </div>
+
+<!-- END OF PROFILE -->
