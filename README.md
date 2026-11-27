@@ -1,31 +1,31 @@
 
-<!-- ═══════════════════════════════════════════════
-     MAHALAKSHMI GOPINATH | GITHUB PROFILE
-     BUTTER YELLOW × POWDER BLUE
-     LIGHT MODE | ANIMATED DEVELOPER PORTFOLIO
-═══════════════════════════════════════════════ -->
+<!--
+MAHALAKSHMI GOPINATH
+PINK SCRAPBOOK × PASTEL CYBER
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7E9A9,50:FFFDF5,100:C8E3F3&height=200&section=header&text=Mahalakshmi%20Gopinath&fontSize=42&fontColor=25354A&fontAlignY=43&desc=DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST%20%7C%20CREATOR&descSize=12&descAlignY=64&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8DCEB,35:E8DDF8,70:D8EBFA,100:F8DCEB&height=230&section=header&text=Mahalakshmi%20Gopinath&fontSize=43&fontColor=30334F&animation=fadeIn&fontAlignY=40&desc=DEVELOPER%20%20%E2%80%A2%20%20AI%2FML%20ENTHUSIAST%20%20%E2%80%A2%20%20CREATOR&descSize=13&descAlignY=62"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=17&duration=2500&pause=900&color=C16C9D&center=true&vCenter=true&width=650&lines=Hello%2C+world!+I'm+Mahalakshmi+%E2%9C%A8;Turning+curiosity+into+code.;Building+ideas+into+real+products.;A+little+AI%2C+a+little+creativity.;Always+learning.+Always+creating." />
 
 <br/>
 
 <a href="https://github.com/mahalakshmi003848-jpg">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-25354A?style=for-the-badge&logo=github&logoColor=F7E9A9"/>
+<img src="https://img.shields.io/badge/GITHUB-30334F?style=for-the-badge&logo=github&logoColor=F8DCEB"/>
 </a>
-
 <a href="mailto:mahalakshmi003848@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-C8E3F3?style=for-the-badge&logo=gmail&logoColor=25354A"/>
+<img src="https://img.shields.io/badge/EMAIL-E8DDF8?style=for-the-badge&logo=gmail&logoColor=6F527D"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=729AB8&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+products.;Exploring+the+world+of+AI+%26+technology.;Designing.+Developing.+Experimenting.;Curiosity+drives+everything+I+build." alt="Typing SVG"/>
-
-<br/>
-
-<sub>BASED IN INDIA · COMPUTER SCIENCE & ENGINEERING · AI & ML</sub>
+<img src="https://img.shields.io/badge/BASED%20IN-INDIA-F8DCEB?style=flat-square&labelColor=30334F"/>
+<img src="https://img.shields.io/badge/DEGREE-COMPUTER%20SCIENCE-D8EBFA?style=flat-square&labelColor=30334F"/>
+<img src="https://img.shields.io/badge/SPECIALISATION-AI%20%26%20ML-E8DDF8?style=flat-square&labelColor=30334F"/>
 
 </div>
 
@@ -33,103 +33,113 @@
 
 <div align="center">
 
-`01 — INTRODUCTION` &nbsp; `02 — EXPERTISE` &nbsp; `03 — SELECTED WORK` &nbsp; `04 — ACTIVITY`
+### ✿ A LITTLE INTRODUCTION ✿
+
+*Not just writing code. Exploring possibilities.*
 
 </div>
 
-## 01 / A LITTLE ABOUT ME
+Hey! I'm **Mahalakshmi**, a Computer Science Engineering student specialising in Artificial Intelligence and Machine Learning.
+
+I'm passionate about technology, product development and turning interesting ideas into functional applications.
+
+I love experimenting with different technologies, exploring creative solutions and learning by building.
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
-### Hello, I'm Mahalakshmi.
+**♡ WHAT I ENJOY**
 
-I'm a Computer Science Engineering student specialising in **Artificial Intelligence & Machine Learning**, passionate about creating technology that goes beyond just working — technology that solves meaningful problems.
-
-My interests lie at the intersection of software development, intelligent systems and product innovation.
-
-I enjoy the entire process: understanding a problem, exploring possibilities, designing an experience and bringing an idea to life through code.
-
-**Currently focused on:**
-
-- Building full-stack applications.
-- Exploring AI-powered solutions.
-- Developing practical technology projects.
-- Strengthening my engineering and product-building skills.
+- Building full-stack applications
+- Exploring Artificial Intelligence
+- Experimenting with IoT
+- Designing user-focused products
+- Turning ideas into projects
 
 </td>
-<td width="35%" valign="center">
+<td width="50%" valign="top">
 
-<div align="center">
+**✧ CURRENTLY EXPLORING**
 
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-25354A?style=flat-square&labelColor=F7E9A9"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/INTEREST-FULL%20STACK-25354A?style=flat-square&labelColor=C8E3F3"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/EXPLORING-IOT-25354A?style=flat-square&labelColor=F7E9A9"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-25354A?style=flat-square&labelColor=C8E3F3"/>
+- AI-powered applications
+- Frontend and backend development
+- Intelligent recommendation systems
+- Creative technology solutions
+- Better ways to build and innovate
 
-</div>
 </td>
 </tr>
 </table>
 
 ---
 
-## 02 / MY TECHNOLOGY STACK
-
 <div align="center">
 
-### PROGRAMMING
+### ✿ MY TECH PLAYGROUND ✿
 
-<img src="https://skillicons.dev/icons?i=python,c,js&theme=light"/>
-
-### FRONTEND DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=light"/>
-
-### BACKEND & DATABASE
-
-<img src="https://skillicons.dev/icons?i=supabase&theme=light"/>
-
-### TOOLS & WORKFLOW
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light"/>
+*Tools I use to turn ideas into reality.*
 
 </div>
 
+**01 — Programming Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,js&theme=light"/>
+</p>
+
+**02 — Frontend Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=light"/>
+</p>
+
+**03 — Backend & Database**
+
+<p>
+<img src="https://skillicons.dev/icons?i=supabase&theme=light"/>
+</p>
+
+**04 — Tools & Workflow**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light"/>
+</p>
+
 ---
 
-## 03 / SELECTED PROJECTS
+<div align="center">
 
-*Some ideas I've been exploring and bringing to life.*
+### ✿ THINGS I'VE BEEN BUILDING ✿
 
-<table width="100%">
+*Ideas, experiments and projects.*
+
+</div>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT%2001-INTELLIGENT%20PRODUCT-25354A?style=flat-square&labelColor=F7E9A9"/>
+<img src="https://img.shields.io/badge/01-INTELLIGENT%20PRODUCT-F8DCEB?style=flat-square&labelColor=30334F"/>
 
-### WATCHIN
+### 🎬 WATCHIN
 
-**ENTERTAINMENT INTELLIGENCE**
+**Your next watch, decided smarter.**
 
-An entertainment decision engine that helps users find what to watch based on mood, available time, language, streaming platforms and viewing context.
+A context-aware entertainment decision engine that helps users decide what to watch based on mood, available time, language, viewing companions, streaming platforms and preferences.
 
 `PRODUCT THINKING` `RECOMMENDATION SYSTEMS`
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT%2002-FULL%20STACK-25354A?style=flat-square&labelColor=C8E3F3"/>
+<img src="https://img.shields.io/badge/02-FULL%20STACK-D8EBFA?style=flat-square&labelColor=30334F"/>
 
-### CAMPUS CONNECT
+### 🎓 CAMPUS CONNECT
 
-**THE CONNECTED CAMPUS**
+**Bringing campus life together.**
 
-A student-focused platform bringing campus events, clubs and opportunities into one connected digital experience, with authentication and personalised user features.
+A student-focused platform that connects campus events, clubs and opportunities in one digital space, with authentication and personalised user features.
 
 `REACT` `VITE` `SUPABASE`
 
@@ -138,13 +148,13 @@ A student-focused platform bringing campus events, clubs and opportunities into 
 <tr>
 <td colspan="2" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT%2003-IOT%20%26%20SUSTAINABILITY-25354A?style=flat-square&labelColor=F7E9A9"/>
+<img src="https://img.shields.io/badge/03-IOT%20%26%20SUSTAINABILITY-E8DDF8?style=flat-square&labelColor=30334F"/>
 
-### TRASH2TREASURE
+### ♻️ TRASH2TREASURE
 
-**SMART SUSTAINABILITY**
+**Technology for a cleaner tomorrow.**
 
-An IoT-based smart waste management concept designed around connected smart bins, efficient waste monitoring and reward-driven responsible disposal.
+An IoT-based smart waste management concept featuring connected smart bins, waste monitoring and reward-driven responsible disposal.
 
 `IOT` `ESP32` `SMART SYSTEMS`
 
@@ -154,70 +164,77 @@ An IoT-based smart waste management concept designed around connected smart bins
 
 ---
 
-## 04 / GITHUB DASHBOARD
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahalakshmi003848-jpg&show_icons=true&hide_border=true&bg_color=FFFDF5&title_color=729AB8&icon_color=D6AF4C&text_color=44546A&rank_icon=github"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmi003848-jpg&layout=compact&hide_border=true&bg_color=F0F8FC&title_color=729AB8&text_color=44546A"/>
+### ✿ MY GITHUB CORNER ✿
+
+*Little green squares, big learning journeys.*
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahalakshmi003848-jpg&show_icons=true&hide_border=true&bg_color=FDF5FA&title_color=C16C9D&icon_color=7BAACB&text_color=42445C&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmi003848-jpg&layout=compact&hide_border=true&bg_color=F0F7FC&title_color=729FBD&text_color=42445C"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=mahalakshmi003848-jpg&hide_border=true&background=FFFDF5&ring=729AB8&fire=D6AF4C&currStreakLabel=729AB8&sideLabels=44546A&currStreakNum=25354A&sideNums=25354A&dates=8292A6"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=mahalakshmi003848-jpg&hide_border=true&background=FDF5FA&ring=C16C9D&fire=729FBD&currStreakLabel=C16C9D&sideLabels=42445C&currStreakNum=30334F&sideNums=30334F&dates=85859B"/>
 
 </div>
 
 ---
 
-## 05 / CONTRIBUTION GRAPH
-
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahalakshmi003848-jpg&bg_color=FFFDF5&color=46566A&line=729AB8&point=D6AF4C&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
+### ✿ CONTRIBUTION GARDEN ✿
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahalakshmi003848-jpg&bg_color=FDF5FA&color=42445C&line=C16C9D&point=729FBD&area=true&hide_border=true&custom_title=MY%20CODING%20JOURNEY"/>
 
 </div>
 
 ---
 
-## 06 / BEYOND TECHNOLOGY
-
 <div align="center">
+
+### ✿ THE HUMAN BEHIND THE CODE ✿
+
+*Because there's more to me than technology.*
 
 <table width="100%">
 <tr>
-<td align="center" width="25%" valign="top">
+<td align="center" width="25%">
 
 ### ♫
 
 **MUSIC**
 
-Creative expression and musical exploration.
+Performing, exploring and enjoying music.
 
 </td>
-<td align="center" width="25%" valign="top">
+<td align="center" width="25%">
 
-### ✧
+### 🎬
 
 **MOVIES**
 
-Film enthusiast who enjoys exploring different stories, genres and cinematic experiences.
+Stories, cinema and discovering new genres.
 
 </td>
-<td align="center" width="25%" valign="top">
+<td align="center" width="25%">
 
-### ✦
+### ✧
 
 **CREATIVITY**
 
-Ideas, design and experimentation.
+Design, content and experimenting with ideas.
 
 </td>
-<td align="center" width="25%" valign="top">
+<td align="center" width="25%">
 
 ### ◈
 
 **LEADERSHIP**
 
-Collaboration and event management.
+Teamwork, events and bringing people together.
 
 </td>
 </tr>
@@ -227,30 +244,33 @@ Collaboration and event management.
 
 ---
 
-## 07 / LET'S BUILD SOMETHING
-
 <div align="center">
 
-I'm always interested in discovering new ideas, collaborating on exciting projects and connecting with people who love building things.
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F8DCEB,50:E8DDF8,100:D8EBFA&height=130&text=LET'S%20CREATE%20SOMETHING!&fontSize=27&fontColor=30334F&animation=fadeIn"/>
+
+### Have an idea? Let's make it happen. ♡
+
+Always open to learning, collaborating and building interesting things.
 
 <br/>
 
 <a href="https://github.com/mahalakshmi003848-jpg">
-<img src="https://img.shields.io/badge/GITHUB-25354A?style=for-the-badge&logo=github&logoColor=F7E9A9"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-30334F?style=for-the-badge&logo=github&logoColor=F8DCEB"/>
 </a>
-
 <a href="mailto:mahalakshmi003848@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-C8E3F3?style=for-the-badge&logo=gmail&logoColor=25354A"/>
+<img src="https://img.shields.io/badge/SAY%20HELLO-C16C9D?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**THINK DIFFERENTLY. BUILD INTENTIONALLY. KEEP CREATING.**
+**୨୧ THINK. CREATE. EXPERIMENT. REPEAT. ୨୧**
+
+<sub>Made with curiosity, creativity and a little bit of pink. 💗</sub>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C8E3F3,50:FFFDF5,100:F7E9A9&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D8EBFA,50:E8DDF8,100:F8DCEB&height=110&section=footer"/>
 
 </div>
 
-<!-- END OF PROFILE -->
+<!-- END -->
