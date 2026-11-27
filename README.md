@@ -1,7 +1,8 @@
 
 <!-- ═══════════════════════════════════════════════
      MAHALAKSHMI GOPINATH | GITHUB PROFILE
-     Theme: Baby Pink × Sky Blue × Minimal White
+     BUTTER YELLOW × POWDER BLUE
+     LIGHT MODE | ANIMATED DEVELOPER PORTFOLIO
 ════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -14,7 +15,7 @@
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-26364A?style=for-the-badge&logo=github&logoColor=F8DDE9"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mahalakshmi003848@gmail.com">
 <img src="https://img.shields.io/badge/LET'S%20CONNECT-D9EDFA?style=for-the-badge&logo=gmail&logoColor=26364A"/>
 </a>
 
@@ -42,7 +43,7 @@
 <tr>
 <td width="65%" valign="top">
 
-### Hello, I'm Maha.
+### Hello, I'm Mahalakshmi.
 
 I'm a Computer Science Engineering student specialising in **Artificial Intelligence & Machine Learning**, passionate about creating technology that goes beyond just working — technology that solves meaningful problems.
 
@@ -184,6 +185,14 @@ An IoT-based smart waste management concept designed around connected smart bins
 **MUSIC**
 
 Creative expression and musical exploration.
+
+</td>
+<td align="center" width="33%">
+### ♫
+
+**MOVIES**
+
+Film enthusiast.
 
 </td>
 <td align="center" width="33%">
